@@ -5,4 +5,4 @@
 ##### and one more
 ###### ok last one for real
 
-! [Picture of yaktocat] (https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
